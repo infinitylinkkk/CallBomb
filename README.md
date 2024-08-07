@@ -34,3 +34,4 @@ Bu Python betiği, belirli bir telefon numarasına Truecaller API'si kullanarak 
 4. Telefon numaranızı girin (örneğin: `+905555555555`).
 
 ## Örnek Çıktı
+![Örnek Görüntü](https://github.com/infinitylinkkk/CallBomb/blob/1ecfd514ec9158d853fb12e8a20face6b7b9d6b9/IMG_20240807_151444.jpg)
