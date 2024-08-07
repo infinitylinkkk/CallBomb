@@ -20,7 +20,7 @@ Bu Python betiği, belirli bir telefon numarasına Truecaller API'si kullanarak 
 2. Gerekli kütüphaneyi yükleyin:
     ```bash
     pip install requests
-    git clone
+    git clone https://github.com/infinitylinkkk/CallBomb.git
     cd infinitylinkkk
     python3 CallBomb.py
     ```
