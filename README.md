@@ -22,7 +22,7 @@ Bu Python betiği, belirli bir telefon numarasına Truecaller API'si kullanarak 
     pip install requests
     git clone https://github.com/infinitylinkkk/CallBomb.git
     cd infinitylinkkk
-    python3 CallBomb.py
+    python3 infinitylink.py
     ```
 
 ## Kullanım
